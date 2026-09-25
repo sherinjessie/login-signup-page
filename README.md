@@ -50,8 +50,6 @@ login-signup-page/
 
 ## 📸 Preview
 
-*(Add a screenshot of your login page here)*
-
 ![Login Page Preview](preview.png.png)
 
 ---
