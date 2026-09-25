@@ -52,7 +52,7 @@ login-signup-page/
 
 *(Add a screenshot of your login page here)*
 
-![Login Page Preview](preview.png)
+![Login Page Preview](preview.png.png)
 
 ---
 
