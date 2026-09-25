@@ -50,7 +50,7 @@ login-signup-page/
 
 ## 📸 Preview
 
-![Login Page Preview](preview.png.png)
+![Login Page Preview](preview.png)
 
 ---
 
